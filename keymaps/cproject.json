@@ -1,0 +1,6 @@
+{
+  ".workspace": {
+    "ctrl-shift-C": "cproject:configure",
+    "ctrl-shift-B": "cproject:build"
+  }
+}
