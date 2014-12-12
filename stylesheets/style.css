@@ -1,0 +1,17 @@
+.cproject-root
+
+.cproject-root:after {
+	content: 'CProject';
+	background-color: grey;
+	border-radius: 3px;
+	margin-left: 1ex;
+	padding: 3px;
+	color: white;
+	text-shadow: none;
+}
+
+.cproject-root > .icon.icon-repo:before {
+	content: '';
+	background: url("atom://cproject/images/cmake-logo-16.png") no-repeat;
+	top: 3px;
+}
